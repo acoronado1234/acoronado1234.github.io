@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/acoronado1234.github.io/static/css/main.a617e044.chunk.css",
+    "main.js": "/acoronado1234.github.io/static/js/main.30248840.chunk.js",
+    "main.js.map": "/acoronado1234.github.io/static/js/main.30248840.chunk.js.map",
+    "runtime-main.js": "/acoronado1234.github.io/static/js/runtime-main.ba4e1033.js",
+    "runtime-main.js.map": "/acoronado1234.github.io/static/js/runtime-main.ba4e1033.js.map",
+    "static/js/2.e65a1e73.chunk.js": "/acoronado1234.github.io/static/js/2.e65a1e73.chunk.js",
+    "static/js/2.e65a1e73.chunk.js.map": "/acoronado1234.github.io/static/js/2.e65a1e73.chunk.js.map",
+    "static/js/3.95579ae3.chunk.js": "/acoronado1234.github.io/static/js/3.95579ae3.chunk.js",
+    "static/js/3.95579ae3.chunk.js.map": "/acoronado1234.github.io/static/js/3.95579ae3.chunk.js.map",
+    "index.html": "/acoronado1234.github.io/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/acoronado1234.github.io/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.e65a1e73.chunk.js.LICENSE.txt": "/acoronado1234.github.io/static/js/2.e65a1e73.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/acoronado1234.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba4e1033.js",
+    "static/js/2.e65a1e73.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.30248840.chunk.js"
+  ]
+}
